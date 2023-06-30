@@ -1,0 +1,2 @@
+# SmartIntern
+Assignments and projects
